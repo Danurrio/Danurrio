@@ -138,6 +138,6 @@ Cluster: OpenShift  │  Status: SECURED
 
 [![Contactar](https://img.shields.io/badge/✉_Contactar-danielbarriotenorio@gmail.com-00C2A8?style=for-the-badge)](mailto:danielbarriotenorio@gmail.com)
 
-*Disponible para incorporación inmediata · Sevilla · Remoto*
+*Disponible para incorporación inmediata · Sevilla · Remoto/Presencial*
 
 </div>
